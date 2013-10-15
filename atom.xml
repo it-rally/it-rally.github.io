@@ -4,7 +4,7 @@
   <title><![CDATA[Ukrainian dev community]]></title>
   <link href="http://it-rally.github.io/atom.xml" rel="self"/>
   <link href="http://it-rally.github.io/"/>
-  <updated>2013-10-15T17:07:33+03:00</updated>
+  <updated>2013-10-15T18:06:07+03:00</updated>
   <id>http://it-rally.github.io/</id>
   <author>
     <name><![CDATA[IT-Rally]]></name>
@@ -12,5 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[We Are Starting]]></title>
+    <link href="http://it-rally.github.io/blog/2013/10/15/we-are-starting/"/>
+    <updated>2013-10-15T17:54:00+03:00</updated>
+    <id>http://it-rally.github.io/blog/2013/10/15/we-are-starting</id>
+    <content type="html"><![CDATA[<p>Ми починаємо, підписуйтесь</p>
+
+<ul>
+<li><a href="https://www.facebook.com/itrally">https://www.facebook.com/itrally</a></li>
+<li><a href="http://vk.com/itrally">http://vk.com/itrally</a></li>
+<li><a href="http://www.youtube.com/user/itrally">http://www.youtube.com/user/itrally</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
 </feed>
