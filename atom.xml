@@ -4,7 +4,7 @@
   <title><![CDATA[Ukrainian dev community]]></title>
   <link href="http://it-rally.github.io/atom.xml" rel="self"/>
   <link href="http://it-rally.github.io/"/>
-  <updated>2013-10-16T17:11:14+03:00</updated>
+  <updated>2013-10-16T17:32:19+03:00</updated>
   <id>http://it-rally.github.io/</id>
   <author>
     <name><![CDATA[IT-Rally]]></name>
@@ -12,24 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Анонс квесту]]></title>
-    <link href="http://it-rally.github.io/blog/2013/10/16/anons-kviestu/"/>
-    <updated>2013-10-16T17:07:00+03:00</updated>
-    <id>http://it-rally.github.io/blog/2013/10/16/anons-kviestu</id>
-    <content type="html"><![CDATA[<h2>Анонс</h2>
-
-<p>Вітаємо, приходіть <a href="http://facebook.com">сюди</a>
-буде:</p>
-
-<ul>
-<li>весело</li>
-<li>смішно</li>
-</ul>
-
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[We Are Starting]]></title>
