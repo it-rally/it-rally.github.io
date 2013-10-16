@@ -97,4 +97,5 @@ disqus_show_comment_count: false
 google_analytics_tracking_id: UA-44872751-1
 
 # Facebook Like
+facebook_user: itrally
 facebook_like: true
