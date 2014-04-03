@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Ukrainian dev community]]></title>
-  <link href="http://it-rally.github.io/atom.xml" rel="self"/>
-  <link href="http://it-rally.github.io/"/>
-  <updated>2013-10-16T17:32:19+03:00</updated>
-  <id>http://it-rally.github.io/</id>
+  <link href="http://it-rally.org/atom.xml" rel="self"/>
+  <link href="http://it-rally.org/"/>
+  <updated>2014-04-03T14:15:24+02:00</updated>
+  <id>http://it-rally.org/</id>
   <author>
     <name><![CDATA[IT-Rally]]></name>
     
@@ -15,10 +15,24 @@
   
   <entry>
     <title type="html"><![CDATA[We Are Starting]]></title>
-    <link href="http://it-rally.github.io/blog/2013/10/15/we-are-starting/"/>
-    <updated>2013-10-15T17:54:00+03:00</updated>
-    <id>http://it-rally.github.io/blog/2013/10/15/we-are-starting</id>
-    <content type="html"><![CDATA[<p>Ми починаємо, підписуйтесь</p>
+    <link href="http://it-rally.org/blog/2013/10/15/we-are-starting/"/>
+    <updated>2013-10-15T17:54:00+02:00</updated>
+    <id>http://it-rally.org/blog/2013/10/15/we-are-starting</id>
+    <content type="html"><![CDATA[<p>IT Rally -серія нових щорічних міжнародних заходів та конференцій ІТ-спільноти міста Івано-Франківська.</p>
+
+<p>Основними завданнями конференції IT Rally є обмін досвідом та навчання в ІТ-професіоналів, знайомство з останніми тенденціями ІТ-галузі, а також популяризація інформаційних технологій серед мешканців Івано-Франківська.
+IT Rally складатиметься з двох частин.
+IT Rally Starters &ndash; це конференція для початківців, для людей, котрі прагнуть дізнатися про те, як стати ІТ-шником. Буде цікаво:
+&ndash; студентами і початківцями ІТ-галузі, які хочуть навчитись та працевлаштуватись,
+&ndash; компаніями-працедавцями
+&ndash; організаціями, які розвивають ІТ-спільноти міста
+&ndash; організаціями, які проводять фахову підготовку в ІТ-напрямках (курси, тренінги)
+&ndash; компанії, які проводять підготовку з англійської мови</p>
+
+<p>та власне основної частини IT Rally яка складатиметься з 16-ти доповідей, розділених на 4 потоки за наступними напрямками:
+&ndash; новинки та кращі практики у розробці програмного забезпечення;
+&ndash; забезпечення якості програмного забезпечення, ручне та автоматизоване тестування;
+&ndash; проектний менеджмент та досвід управління проектами</p>
 
 <ul>
 <li><a href="https://www.facebook.com/itrally">https://www.facebook.com/itrally</a></li>
