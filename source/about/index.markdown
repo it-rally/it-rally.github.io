@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "We Are Starting"
-date: 2013-10-15 17:54
+layout: page
+title: "Про нас"
+date: 2014-04-02 17:09
 comments: true
-categories: 
+sharing: true
+footer: true
 ---
 IT Rally -серія нових щорічних міжнародних заходів та конференцій ІТ-спільноти міста Івано-Франківська. 
 
@@ -24,5 +25,3 @@ IT Rally Starters - це конференція для початківців, �
 * https://www.facebook.com/itrally
 * http://vk.com/itrally
 * http://www.youtube.com/user/itrally
-
-
