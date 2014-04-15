@@ -22,12 +22,10 @@ IT Rally “Starters” - це перший “кваліфікаційний з
 
 IT Rally - найцікавіше попереду...
 
-<br/>
+<div style="clear: both"></div>
 
-<br/>
-
-:-----------|:------------
- 09:00     |  Реєстрація 
+:----------|:------------
+ 09:00     | Реєстрація 
  10:00     | Відкриття та презентація IT Rally     
  10:10     | Презентація від ІТ Компанії
  10:30     | Презентація ІТ курсів    
@@ -45,7 +43,7 @@ IT Rally - найцікавіше попереду...
  14:05     | Презентація ІТ курсів     
  14:20     | Презентація від ІТ Компанії     
  14:40     | Закриття     
- {:.basic-alignment .left}
+ {:.basic-alignment .left .evenodd}
  
 <div style="float: right;">
 <iframe src="http://www.embed-google-map.com/maps.php?q=st%20%D0%84%D0%B2%D0%B3%D0%B5%D0%BD%D0%B0%20%D0%9A%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%D0%BB%D1%8C%D1%86%D1%8F%2C%2035%20%2C%20%20%D1%96%D0%B2%D0%B0%D0%BD%D0%BE-%D1%84%D1%80%D0%B0%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA&t=m&z=14&w=600&h=500&ie=UTF8&iwloc=&output=embed" width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="http://www.embed-google-map.com/map2047/"class="map-data">http://www.embed-google-map.com/map2047/</a><style>closemap"init"if=map_connect-start="25"check_bandwith</style></iframe>
