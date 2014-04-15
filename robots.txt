@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://it-rally.org/sitemap.xml 
+Sitemap: http://it-rally.github.io/sitemap.xml 
