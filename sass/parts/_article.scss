@@ -86,16 +86,21 @@ article{
 			border: none;
 		}
 		table{
-			background: $color-gray04;
 			border: 1px solid $color-gray03;
 			border-spacing: 0;
+			padding: 5px;
 			margin-top: 10px;
 			th{
-				background: $color-gray03;
 				padding: 0 15px;
 			}
 			td{
 				text-align: center;
+			}
+		}
+		.colorised{
+			th{
+				background: $color-gray03;
+				padding: 0 15px;
 			}
 			tr{
 				&:nth-of-type(2n){
