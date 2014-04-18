@@ -6,7 +6,11 @@
     </url>
     <url>
         <loc>http://it-rally.github.io/blog/2014/04/08/it-rally-starters/</loc>
-        <lastmod>2014-04-16T05:14:07+02:00</lastmod>
+        <lastmod>2014-04-17T12:56:12+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://it-rally.github.io/blog/2014/04/17/it-rally/</loc>
+        <lastmod>2014-04-18T10:09:54+02:00</lastmod>
     </url>
     <url>
         <loc>http://it-rally.github.io/about/</loc>
@@ -14,7 +18,7 @@
     </url>
     <url>
         <loc>http://it-rally.github.io/blog/archives/</loc>
-        <lastmod>2014-04-16T05:14:07+02:00</lastmod>
+        <lastmod>2014-04-18T10:09:54+02:00</lastmod>
     </url>
     <url>
         <loc>http://it-rally.github.io/blog/categories/</loc>
@@ -22,10 +26,14 @@
     </url>
     <url>
         <loc>http://it-rally.github.io/</loc>
-        <lastmod>2014-04-16T05:14:07+02:00</lastmod>
+        <lastmod>2014-04-18T10:09:54+02:00</lastmod>
     </url>
     <url>
         <loc>http://it-rally.github.io/robots.txt</loc>
         <lastmod>2014-04-02T15:43:27+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://it-rally.github.io/schedule/</loc>
+        <lastmod>2014-04-17T10:09:09+02:00</lastmod>
     </url>
 </urlset>
