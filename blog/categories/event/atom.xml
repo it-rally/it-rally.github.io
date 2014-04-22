@@ -4,7 +4,7 @@
   <title><![CDATA[Category: event, | IT Rally]]></title>
   <link href="http://it-rally.github.io/blog/categories/event/atom.xml" rel="self"/>
   <link href="http://it-rally.github.io/"/>
-  <updated>2014-04-22T16:04:38+02:00</updated>
+  <updated>2014-04-22T16:27:50+02:00</updated>
   <id>http://it-rally.github.io/</id>
   <author>
     <name><![CDATA[IT-Rally]]></name>
@@ -33,19 +33,16 @@ IT Rally - це не просто конференція, це інформац�
 
 <p>IT Rally - рухайся в ритмі інформаційних технологій…</p>
 
-<div style="float: right; margin: 30px;">
-<div style="height:400px;width:400px;overflow:hidden;"><style type="text/css" media="screen">.gm-style img{max-width: none;}.gm-style-iw{height:auto !important; color:#000000;display:block; white-space:nowrap; width:auto !important; line-height:18px; overflow:hidden !important;}</style><script type="text/javascript" src="http://maps.google.com/maps/api/js?v=3&amp;sensor=false"></script><div style="height:400px;width:400px;overflow:hidden;"><div id="gmap_canvas" style="height:400px; width:400px;"></div><a href="http://www.stromleo.de" class="map-data">strompreisvergleich</a></div><script type="text/javascript">function init_map(){var myOptions = {zoom:14,center:new google.maps.LatLng(48.916237,24.711604999999963),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(48.916237, 24.711604999999963)}); infowindow = new google.maps.InfoWindow({content:"<span style='height:auto !important; display:block; white-space:nowrap; overflow:hidden !important;'><strong style='font-weight:400;'>&#1059;&#1085;&#1110;&#1074;&#1077;&#1088;&#1089;&#1080;&#1090;&#1077;&#1090; &#1087;&#1088;&#1072;&#1074;&#1072; &#1110;&#1084;&#1077;&#1085;&#1110; &#1050;&#1086;&#1088;&#1086;&#1083;&#1103; &#1044;&#1072;&#1085;&#1080;&#1083;&#1072; &#1043;&#1072;&#1083;&#1080;&#1094;&#1100;&#1082;&#1086;&#1075;&#1086;</strong><br> &#1074;&#1091;&#1083;. &#1028;&#1074;&#1075;&#1077;&#1085;&#1072; &#1050;&#1086;&#1085;&#1086;&#1074;&#1072;&#1083;&#1100;&#1094;&#1103;, 35<br>  &#1030;&#1074;&#1072;&#1085;&#1086;-&#1060;&#1088;&#1072;&#1085;&#1082;&#1110;&#1074;&#1089;&#1100;&#1082;</span>" }); google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);}); infowindow.open(map,marker);}google.maps.event.addDomListener (window, "load", init_map);</script></div>
-</div>
-
-<div style="clear: both;"></div>
-
-<!-- more -->
-
 <h4 id="it-rally">Спонсори та партнери IT Rally</h4>
 <p><a href="http://eleks.com"><img src="/images/company_logo/Eleks.png" width="128"></a>
 <a href="http://lezgro.com/"><img src="/images/company_logo/lezgro.png" width="128"></a>
 <a href="http://www.osf-global.com/"><img src="/images/company_logo/osf.png" width="128"></a>
 <a href="http://www.softjourn.com/"><img src="/images/company_logo/softjourn.png" width="128"></a></p>
+
+<!-- more -->
+
+<div style="margin-top:30px;"><script type="text/javascript" src="http://maps.google.com/maps/api/js?v=3&amp;sensor=false"></script><div id="gmap_canvas" style="height:450px; width:600px;"></div><script type="text/javascript">function init_map(){var myOptions = {zoom:14,center:new google.maps.LatLng(48.916237,24.711604999999963),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(48.916237, 24.711604999999963)}); infowindow = new google.maps.InfoWindow({content:"<span style='height:auto !important; display:block; white-space:nowrap; overflow:hidden !important;'><strong style='font-weight:400;'>&#1059;&#1085;&#1110;&#1074;&#1077;&#1088;&#1089;&#1080;&#1090;&#1077;&#1090; &#1087;&#1088;&#1072;&#1074;&#1072; &#1110;&#1084;&#1077;&#1085;&#1110; &#1050;&#1086;&#1088;&#1086;&#1083;&#1103; &#1044;&#1072;&#1085;&#1080;&#1083;&#1072; &#1043;&#1072;&#1083;&#1080;&#1094;&#1100;&#1082;&#1086;&#1075;&#1086;</strong><br> &#1074;&#1091;&#1083;. &#1028;&#1074;&#1075;&#1077;&#1085;&#1072; &#1050;&#1086;&#1085;&#1086;&#1074;&#1072;&#1083;&#1100;&#1094;&#1103;, 35<br>  &#1030;&#1074;&#1072;&#1085;&#1086;-&#1060;&#1088;&#1072;&#1085;&#1082;&#1110;&#1074;&#1089;&#1100;&#1082;</span>" }); google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);}); infowindow.open(map,marker);}google.maps.event.addDomListener (window, "load", init_map);</script></div>
+
 ]]></content>
   </entry>
   
@@ -155,7 +152,7 @@ IT Rally “Starters” - це перший “кваліфікаційний з
 
 <!-- more -->
 
-<div style="margin-top: 30px;"><style type="text/css" media="screen">.gm-style img{max-width: none;}.gm-style-iw{height:auto !important; color:#000000;display:block; white-space:nowrap; width:auto !important; line-height:18px; overflow:hidden !important;}</style><script type="text/javascript" src="http://maps.google.com/maps/api/js?v=3&amp;sensor=false"></script><div style="height:450px;width:600px;overflow:hidden;"><div id="gmap_canvas" style="height:450px; width:600px;"></div><a href="http://www.stromleo.de" class="map-data">strompreisvergleich</a></div><script type="text/javascript">function init_map(){var myOptions = {zoom:14,center:new google.maps.LatLng(48.916237,24.711604999999963),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(48.916237, 24.711604999999963)}); infowindow = new google.maps.InfoWindow({content:"<span style='height:auto !important; display:block; white-space:nowrap; overflow:hidden !important;'><strong style='font-weight:400;'>&#1059;&#1085;&#1110;&#1074;&#1077;&#1088;&#1089;&#1080;&#1090;&#1077;&#1090; &#1087;&#1088;&#1072;&#1074;&#1072; &#1110;&#1084;&#1077;&#1085;&#1110; &#1050;&#1086;&#1088;&#1086;&#1083;&#1103; &#1044;&#1072;&#1085;&#1080;&#1083;&#1072; &#1043;&#1072;&#1083;&#1080;&#1094;&#1100;&#1082;&#1086;&#1075;&#1086;</strong><br> &#1074;&#1091;&#1083;. &#1028;&#1074;&#1075;&#1077;&#1085;&#1072; &#1050;&#1086;&#1085;&#1086;&#1074;&#1072;&#1083;&#1100;&#1094;&#1103;, 35<br>  &#1030;&#1074;&#1072;&#1085;&#1086;-&#1060;&#1088;&#1072;&#1085;&#1082;&#1110;&#1074;&#1089;&#1100;&#1082;</span>" }); google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);}); infowindow.open(map,marker);}google.maps.event.addDomListener (window, "load", init_map);</script></div>
+<div style="margin-top:30px;"><script type="text/javascript" src="http://maps.google.com/maps/api/js?v=3&amp;sensor=false"></script><div id="gmap_canvas" style="height:450px; width:600px;"></div><script type="text/javascript">function init_map(){var myOptions = {zoom:14,center:new google.maps.LatLng(48.916237,24.711604999999963),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(48.916237, 24.711604999999963)}); infowindow = new google.maps.InfoWindow({content:"<span style='height:auto !important; display:block; white-space:nowrap; overflow:hidden !important;'><strong style='font-weight:400;'>&#1059;&#1085;&#1110;&#1074;&#1077;&#1088;&#1089;&#1080;&#1090;&#1077;&#1090; &#1087;&#1088;&#1072;&#1074;&#1072; &#1110;&#1084;&#1077;&#1085;&#1110; &#1050;&#1086;&#1088;&#1086;&#1083;&#1103; &#1044;&#1072;&#1085;&#1080;&#1083;&#1072; &#1043;&#1072;&#1083;&#1080;&#1094;&#1100;&#1082;&#1086;&#1075;&#1086;</strong><br> &#1074;&#1091;&#1083;. &#1028;&#1074;&#1075;&#1077;&#1085;&#1072; &#1050;&#1086;&#1085;&#1086;&#1074;&#1072;&#1083;&#1100;&#1094;&#1103;, 35<br>  &#1030;&#1074;&#1072;&#1085;&#1086;-&#1060;&#1088;&#1072;&#1085;&#1082;&#1110;&#1074;&#1089;&#1100;&#1082;</span>" }); google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);}); infowindow.open(map,marker);}google.maps.event.addDomListener (window, "load", init_map);</script></div>
 
 ]]></content>
   </entry>
