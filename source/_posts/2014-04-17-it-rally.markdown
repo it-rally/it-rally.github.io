@@ -1,0 +1,83 @@
+---
+layout: post
+title: "IT Rally"
+date: 2014-04-17 07:01
+comments: false
+categories: event, y2014
+---
+{% img left /images/2014/ITRally_phenix.jpg 240 %}
+
+Немає часу розслаблятись, IT Rally набирає обертів!
+IT Rally - це не просто конференція, це інформаційні перегони нашого міста. Все найсвіжіше та найцікавіше в одному місці. Цього дня, на нашому треку, для вас виступатимуть професійні “пілоти” ІТ-галузі та просто знавці своєї справи. Під час перерв кожен бажаючий матиме змогу розважитись в “фан зоні” або скуштувати багато смачного на “піт-стопі”. Ми гарантуємо насичений день, море позитиву та багато приємних сюрпризів.
+
+Отже, приходьте та прихопіть з собою друзів:
+**17 травня о 9:00**, м. Івано-Франківськ, вул. Євгена Коновальця, 35 - “трек” університету права імені Короля Данила Галицького.
+
+Не пропустіть! Долучайся до нас, та слідкуй за оновленнями.
+
+####Події в мережах
+[{% img /images/social_big/facebook-icon.png 32 %}](https://www.facebook.com/events/501261773336783/)
+[{% img /images/social_big/vk_logo.png 32 %}](http://vk.com/itrally2014)
+[{% img /images/social_big/google-plus.png 32 %}](https://plus.google.com/b/108151698004986432580/events/c578rsa5ti4315bs11udk3d9n48)
+
+
+IT Rally - рухайся в ритмі інформаційних технологій...
+
+<div style="clear: both"></div>
+
+####Спонсори та партнери IT Rally
+[{% img /images/company_logo/Eleks.png 128 %}](http://eleks.com)
+[{% img /images/company_logo/lezgro.png 128 %}](http://lezgro.com/)
+[{% img /images/company_logo/osf.png 128 %}](http://www.osf-global.com/)
+[{% img /images/company_logo/softjourn.png 128 %}](http://www.softjourn.com/)
+[{% img /images/company_logo/softserve.png 128 %}](http://www.softserveinc.com/)
+[{% img /images/company_logo/malkos.jpg 128 %}](http://www.malkosua.com/site/)
+[{% img /images/company_logo/university.jpg %}](http://iful.at.ua/)
+[{% img /images/company_logo/pointpack.png 200 %}](https://www.pointpack.pl/)
+
+<!-- more -->	
+
+<div style="margin-top:30px;"><script type="text/javascript" src="http://maps.google.com/maps/api/js?v=3&sensor=false"></script><div id="gmap_canvas" style="height:450px; width:600px;"></div><script type="text/javascript">function init_map(){var myOptions = {zoom:14,center:new google.maps.LatLng(48.916237,24.711604999999963),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(48.916237, 24.711604999999963)}); infowindow = new google.maps.InfoWindow({content:"<span style='height:auto !important; display:block; white-space:nowrap; overflow:hidden !important;'><strong style='font-weight:400;'>&#1059;&#1085;&#1110;&#1074;&#1077;&#1088;&#1089;&#1080;&#1090;&#1077;&#1090; &#1087;&#1088;&#1072;&#1074;&#1072; &#1110;&#1084;&#1077;&#1085;&#1110; &#1050;&#1086;&#1088;&#1086;&#1083;&#1103; &#1044;&#1072;&#1085;&#1080;&#1083;&#1072; &#1043;&#1072;&#1083;&#1080;&#1094;&#1100;&#1082;&#1086;&#1075;&#1086;</strong><br> &#1074;&#1091;&#1083;. &#1028;&#1074;&#1075;&#1077;&#1085;&#1072; &#1050;&#1086;&#1085;&#1086;&#1074;&#1072;&#1083;&#1100;&#1094;&#1103;, 35<br>  &#1030;&#1074;&#1072;&#1085;&#1086;-&#1060;&#1088;&#1072;&#1085;&#1082;&#1110;&#1074;&#1089;&#1100;&#1082;</span>" }); google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);}); infowindow.open(map,marker);}google.maps.event.addDomListener (window, "load", init_map);</script></div>
+
+### Доповіді
+
+{% img left /images/2014/speaker/roman_melnyk.jpg 140 %}
+
+###Роман Мельник WebUI developer at SoftServe
+
+___Approaches in modern web development. Vivisection of a JS framework___
+
+Для розробки сучасної веб-аплікації необхідні ряд стандартних компонентів, напр., механізми для обробки HTML та для роботи з користувацькими подіями, компоненти MVC (шаблонізатор, транспорт та, власне, модель). Окрім того, розробники вже звикли до ООП, реалізація якого у JS суттєво відрізняється від класичного ООП таких мов, як Java чи C#.
+Під час презентації ми
+розглянемо, як побудовані вищезгадані компоненти веб-аплікації
+- та -
+оцінимо, як вони реалізовані у різних JS фреймворках.
+
+<div style="clear: both"></div>
+
+{% img left /images/2014/speaker/viktor_levytskyi.jpg 140 %}
+
+###Віктор Левицький Інженер і team lead at SoftJourn
+
+___Інтеграційна платформа Mule ESB___
+
+В нашій повсякденній роботі ми часто стикаємось із завданням, як зв'язати різні компоненти системи (сервери, програми, бази даних) в одне ціле, не ускладнюючи при цьому собі життя. При цьому ми мусимо виконати величезний обсяг рутинної роботи. Але можна уникнути згаяного часу і сотень рядків коду. В цьому нам допоможе Mule.
+
+
+
+<div style="clear: both"></div>
+
+{% img left /images/2014/speaker/lesya_symanyshyn.jpg 140 %}
+
+###Леся Симанишин Project Manager at Eleks
+___Про проект «на вчора»___
+
+Ще з університетських часів кожен може пригадати хоча б один випадок коли підготовка до важливого екзамену, курсової або дипломної починалася дещо із запізненням, тобто в останній день.
+
+У дорослому житті дуже часто проекти робляться теж у так звані «тісні» терміни. Чи можливо здати проект вчасно і високоякісно в таких умовах?
+
+Базуючись на реальних подіях (ну і деяких припущеннях) розповім про проблеми, що виникали на проекті, який мав на меті бути зробленим за дуже короткі терміни.
+
+<div style="clear: both"></div>
+
+

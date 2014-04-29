@@ -2,7 +2,7 @@
 layout: page
 title: "Про нас"
 date: 2014-04-02 17:09
-comments: true
+comments: false
 sharing: true
 footer: true
 ---
@@ -22,6 +22,6 @@ IT Rally Starters - це конференція для початківців, �
 - забезпечення якості програмного забезпечення, ручне та автоматизоване тестування;
 - проектний менеджмент та досвід управління проектами
 
-* https://www.facebook.com/itrally
-* http://vk.com/itrally
-* http://www.youtube.com/user/itrally
+* [https://www.facebook.com/itrally](https://www.facebook.com/itrally)
+* [http://vk.com/itrally](http://vk.com/itrally)
+* [http://www.youtube.com/user/itrally](http://www.youtube.com/user/itrally)
