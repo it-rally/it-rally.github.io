@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: event, | IT Rally]]></title>
-  <link href="http://it-rally.github.io/blog/categories/event/atom.xml" rel="self"/>
-  <link href="http://it-rally.github.io/"/>
-  <updated>2014-04-29T15:18:41+02:00</updated>
-  <id>http://it-rally.github.io/</id>
+  <link href="http://it-rally.org/blog/categories/event/atom.xml" rel="self"/>
+  <link href="http://it-rally.org/"/>
+  <updated>2014-05-05T20:31:24+02:00</updated>
+  <id>http://it-rally.org/</id>
   <author>
     <name><![CDATA[IT-Rally]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[IT Rally]]></title>
-    <link href="http://it-rally.github.io/blog/2014/04/17/it-rally/"/>
+    <link href="http://it-rally.org/blog/2014/04/17/it-rally/"/>
     <updated>2014-04-17T07:01:00+02:00</updated>
-    <id>http://it-rally.github.io/blog/2014/04/17/it-rally</id>
+    <id>http://it-rally.org/blog/2014/04/17/it-rally</id>
     <content type="html"><![CDATA[<p><img class="left" src="/images/2014/ITRally_phenix.jpg" width="240"></p>
 
 <p>Немає часу розслаблятись, IT Rally набирає обертів!
@@ -95,9 +95,9 @@ IT Rally - це не просто конференція, це інформац�
   
   <entry>
     <title type="html"><![CDATA[IT Rally Starters]]></title>
-    <link href="http://it-rally.github.io/blog/2014/04/08/it-rally-starters/"/>
+    <link href="http://it-rally.org/blog/2014/04/08/it-rally-starters/"/>
     <updated>2014-04-08T20:55:00+02:00</updated>
-    <id>http://it-rally.github.io/blog/2014/04/08/it-rally-starters</id>
+    <id>http://it-rally.org/blog/2014/04/08/it-rally-starters</id>
     <content type="html"><![CDATA[<p><img class="left" src="/images/poster_irtally_starters_2014.png" width="240"></p>
 
 <p>Леді та джентльмени, пані та панове, прогрівайте свої двигуни, ми розпочинаємо!
