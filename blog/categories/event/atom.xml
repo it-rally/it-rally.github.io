@@ -4,7 +4,7 @@
   <title><![CDATA[Category: event, | IT Rally]]></title>
   <link href="http://it-rally.org/blog/categories/event/atom.xml" rel="self"/>
   <link href="http://it-rally.org/"/>
-  <updated>2014-05-05T20:31:24+02:00</updated>
+  <updated>2014-05-06T09:56:50+02:00</updated>
   <id>http://it-rally.org/</id>
   <author>
     <name><![CDATA[IT-Rally]]></name>
@@ -38,16 +38,17 @@ IT Rally - це не просто конференція, це інформац�
 <div style="clear: both"></div>
 
 <h4 id="it-rally">Спонсори та партнери IT Rally</h4>
-<p><a href="http://eleks.com"><img src="/images/company_logo/Eleks.png" width="128"></a>
-<a href="http://lezgro.com/"><img src="/images/company_logo/lezgro.png" width="128"></a>
-<a href="http://www.osf-global.com/"><img src="/images/company_logo/osf.png" width="128"></a>
-<a href="http://www.softjourn.com/"><img src="/images/company_logo/softjourn.png" width="128"></a>
-<a href="http://www.softserveinc.com/"><img src="/images/company_logo/softserve.png" width="128"></a>
-<a href="http://www.malkosua.com/site/"><img src="/images/company_logo/malkos.jpg" width="128"></a>
-<a href="http://iful.at.ua/"><img src="/images/company_logo/university.jpg"></a>
-<a href="https://www.pointpack.pl/"><img src="/images/company_logo/pointpack.png" width="200"></a></p>
-
-<!-- more -->
+<p><a href="http://www.osf-global.com/"><img src="/images/company_logo/osf.png"></a>
+<a href="http://lezgro.com/"><img src="/images/company_logo/lezgro.png"></a>
+<a href="http://eleks.com"><img src="/images/company_logo/eleks.png"></a>
+<a href="https://www.pointpack.pl/"><img src="/images/company_logo/pointpack.png"></a>
+<a href="http://www.softjourn.com/"><img src="/images/company_logo/SoftJorn.png"></a>
+<a href="http://iful.at.ua/"><img src="/images/company_logo/university.png"></a>
+<a href="http://www.softserveinc.com/"><img src="/images/company_logo/softserve.png"></a>
+<a href="http://www.malkosua.com/site/"><img src="/images/company_logo/malkos.png"></a>
+<a href="https://www.pointpack.pl/"><img src="/images/company_logo/copyART.png"></a>
+<a href="http://qa-school.lviv.ua/"><img src="/images/company_logo/LQAS_logo.png" width="128"></a>
+<!-- more -->	</p>
 
 <div style="margin-top:30px;"><script type="text/javascript" src="http://maps.google.com/maps/api/js?v=3&amp;sensor=false"></script><div id="gmap_canvas" style="height:450px; width:600px;"></div><script type="text/javascript">function init_map(){var myOptions = {zoom:14,center:new google.maps.LatLng(48.916237,24.711604999999963),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(48.916237, 24.711604999999963)}); infowindow = new google.maps.InfoWindow({content:"<span style='height:auto !important; display:block; white-space:nowrap; overflow:hidden !important;'><strong style='font-weight:400;'>&#1059;&#1085;&#1110;&#1074;&#1077;&#1088;&#1089;&#1080;&#1090;&#1077;&#1090; &#1087;&#1088;&#1072;&#1074;&#1072; &#1110;&#1084;&#1077;&#1085;&#1110; &#1050;&#1086;&#1088;&#1086;&#1083;&#1103; &#1044;&#1072;&#1085;&#1080;&#1083;&#1072; &#1043;&#1072;&#1083;&#1080;&#1094;&#1100;&#1082;&#1086;&#1075;&#1086;</strong><br> &#1074;&#1091;&#1083;. &#1028;&#1074;&#1075;&#1077;&#1085;&#1072; &#1050;&#1086;&#1085;&#1086;&#1074;&#1072;&#1083;&#1100;&#1094;&#1103;, 35<br>  &#1030;&#1074;&#1072;&#1085;&#1086;-&#1060;&#1088;&#1072;&#1085;&#1082;&#1110;&#1074;&#1089;&#1100;&#1082;</span>" }); google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);}); infowindow.open(map,marker);}google.maps.event.addDomListener (window, "load", init_map);</script></div>
 
@@ -87,6 +88,15 @@ IT Rally - це не просто конференція, це інформац�
 <p>У дорослому житті дуже часто проекти робляться теж у так звані «тісні» терміни. Чи можливо здати проект вчасно і високоякісно в таких умовах?</p>
 
 <p>Базуючись на реальних подіях (ну і деяких припущеннях) розповім про проблеми, що виникали на проекті, який мав на меті бути зробленим за дуже короткі терміни.</p>
+
+<div style="clear: both"></div>
+
+<p><img class="left" src="/images/2014/speaker/roman_nikitchenko.jpg" width="140"></p>
+
+<h3 id="research-engineer-at-vitech">Роман Нікітченко, Research engineer at V.I.tech</h3>
+<p><strong>Технології Big Data та інфраструктура Apcahe Hadoop</strong></p>
+
+<p>Обсяги даних в сучасних інформаційних рішеннях стримко зростають і це приводить до виникнення як нових проблем, так і нових можливостей. De-facto перша в світі операційна система для обробки даних (data OS) Apache Hadoop надає дуже широкі можливості як для зберігання, так і для обробки великих обсягів інформації. Які саме і як це може вплинути найближчим часом на обличчя індустрії Big Data?</p>
 
 <div style="clear: both"></div>
 
