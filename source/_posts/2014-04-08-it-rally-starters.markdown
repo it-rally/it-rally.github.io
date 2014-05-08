@@ -50,7 +50,8 @@ IT Rally - найцікавіше попереду...
 [{% img /images/company_logo/lezgro.png 128 %}](http://lezgro.com/)
 [{% img /images/company_logo/LQAS_logo.png 128 %}](http://qa-school.lviv.ua/)
 [{% img /images/company_logo/osf.png 128 %}](http://www.osf-global.com/)
-[{% img /images/company_logo/softjourn.png 128 %}](http://www.softjourn.com/)
+[{% img /images/company_logo/SoftJorn.png %}](http://www.softjourn.com/)
+[{% img /images/company_logo/university.png %}](http://iful.at.ua/)
 
 <!-- more --> 
 

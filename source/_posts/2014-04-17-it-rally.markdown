@@ -130,3 +130,35 @@ ___iOS. Advanced programming techniques___
 Доповідь містить практичні приклади нестандартних рішень для розробки iOS додатків і розрахована на осіб, які мають базові або середні знання в iOS програмуванні. Будуть розглянуті  архітектурні рішення для багатопотокових додатків,  можливості Objective-C Runtime, CoreData, способи оптимізації та інші корисні речі.
 
 <div style="clear: both"></div>
+
+{% img left /images/2014/speaker/rostyslav_rava.jpg 140 %}
+
+###Ростислав Рава Database Engineer
+
+___Типовий MySQL___
+
+Майже в кожному проекті з розробки програмного забезпечення використовується сховище даних. На частку MySQL, за різними підрахунками, припадає близько половини ринку реляційних баз даних (БД). Та попри те, що MySQL стабільно займає верхні рядки рейтингів, є беззаперечним лідером серед систем управління базами даних (СУБД) з відкритим кодом, її практичне використання може бути проблематичним та складним. Про те, як уникнути типових помилок, заощадити час, сили, кошти та вберегти нервову систему, ми поспілкуємося на доповіді.
+
+<div style="clear: both"></div>
+
+{% img left /images/2014/speaker/markiyan_matsekh.jpg 140 %}
+
+###Маркіян Мацех Mobility & Wearables Business Developer at Eleks
+
+___Wearables: the Next Level of Mobility___
+
+Mobility is about efficiency and getting things when and where you want them. As the pace of life is constantly growing, the “now” is receiving a new meaning, while wearables are destined to implement it.
+
+The presenter will highlight specific features of most popular wearables - smartglasses and smartwatches including UX, usage patterns and software applications, insights based on both his personal experience as a user and professional experience at an app development company.  
+The presentation will touch upon following aspects of wearables:
+
+* Consumer vs enterprise usage;
+
+* “Killer app” problem;
+
+* Glasses and watches as fashion attributes;
+
+* The new “now”, information overflow and contextual awareness.
+
+
+<div style="clear: both"></div>
