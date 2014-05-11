@@ -4,7 +4,7 @@
   <title><![CDATA[Category: y2014 | IT Rally]]></title>
   <link href="http://it-rally.org/blog/categories/y2014/atom.xml" rel="self"/>
   <link href="http://it-rally.org/"/>
-  <updated>2014-05-11T19:55:59+02:00</updated>
+  <updated>2014-05-11T20:57:47+02:00</updated>
   <id>http://it-rally.org/</id>
   <author>
     <name><![CDATA[IT-Rally]]></name>
@@ -261,6 +261,23 @@ The presentation will touch upon following aspects of wearables:</p>
 <p><strong><em>Застосування ІТ-технологій для вирішення соціальних проблем міста: CityRep Demo</em></strong></p>
 
 <p>Представляємо учасникам IT-Rally наш продукт “CityRep”, один із командних проектів благодійного хакатону Kindhack (http://dou.ua/calendar/4560/).  Метою проекту є створення цифрового аналогу «гарячої лінії» міста, що спростить процес повідомляння органів влади про нагальні проблеми міста та громадський контроль їх вирішення. В рамках проекту розроблено сайт та мобільні додатки для Android та iOS, отже презентація складатиметься  двох частин: ліричної та технічної. У ліричній частині ми розповімо про шлях ідеї від зродження до часткового впровадження: про сам хакатон, розробку концепції, співпрацю з міською радою та іншими громадськими ініціативами, а у технічній – поговоримо про технології та їх взаємодію, зокрема про: MVC 5, Knockout, ASP.Net Web API 2.</p>
+
+<div style="clear: both"></div>
+
+<p><img class="left" src="/images/2014/speaker/anatoliy_syernyi.jpg" width="140"></p>
+
+<h3 id="frontend-developer-at-pointpackpl-sa">Анатолій Сєрний frontend developer at PointPack.pl SA</h3>
+
+<p><strong><em>AngularJS - survival guide</em></strong></p>
+
+<p>На сьогоднішній день AngularJS це один з провідних гравців на ринку SPA (Single-page Application) фреймворків. “Магія” AngularJS заворожує, проте що робити коли все пішло не так як заплановано?</p>
+
+<p>На цій доповіді я поділюсь з вами власним досвідом розробки повноцінних SPA з допомогою AngularJS, ми ознайомимося з головними принципами роботи та спробуємо розібратись як це все працює “з середини”, розглянемо найпоширеніші помилки початківців та навчимося не допускати їх.</p>
+
+<p>А також:
+- як не перетворити вашу аплікацію в “монстра”;
+- чому AngularJS не любить AMD (Asynchronous module definition);
+- чого чекати від Angular вже завтра та що таке AngularDart.</p>
 
 <div style="clear: both"></div>
 ]]></content>
