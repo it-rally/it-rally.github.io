@@ -4,7 +4,7 @@
   <title><![CDATA[Category: event, | IT Rally]]></title>
   <link href="http://it-rally.org/blog/categories/event/atom.xml" rel="self"/>
   <link href="http://it-rally.org/"/>
-  <updated>2014-05-09T11:25:49+02:00</updated>
+  <updated>2014-05-11T19:55:59+02:00</updated>
   <id>http://it-rally.org/</id>
   <author>
     <name><![CDATA[IT-Rally]]></name>
@@ -198,6 +198,69 @@ The presentation will touch upon following aspects of wearables:</p>
 <p>Спражні двигуни команди незавжди очевидні. 
 Добрий менеджер має вміти заводити його і вберігати від перегріву.
 А ще важливо їх правильно розставляти, щоб команду не розірвало від надлишку енергії.</p>
+
+<div style="clear: both"></div>
+
+<p><img class="left" src="/images/2014/speaker/Volodymyr_Fuchenko.jpg" width="140"></p>
+
+<h3 id="software-developer-at-eleks">Володимир Фученко Software developer at Eleks</h3>
+
+<p><strong><em>Розробка кросплатформенних мобільних аплікацій з Xamarin</em></strong></p>
+
+<p>З кожним роком мобільні технології все тісніше входять в наше життя. Проте розробка мобільних аплікацій не є надто легкою, адже потрібно підтримувати різні ОС (Android, iOS, Windws Phone). Xamarin – це фреймворк, який покликаний спростити життя розробникам, дозволивши писати кросплатформенні аплікації використовуючи одну мову програмування, C#.</p>
+
+<div style="clear: both"></div>
+
+<p><img class="left" src="/images/2014/speaker/taras_romaniv.jpg" width="140"></p>
+
+<h3 id="senior-software-engineer-at-softjourn-inc">Тарас Романів Senior Software Engineer at Softjourn Inc.</h3>
+
+<p><strong><em>SEO Friendly AJAX Websites</em></strong></p>
+
+<p>Часто перед нами постає проблема пошукової оптимізації динамічних AJAX веб-сайтів, коли потрібно, щоб “все індексувалось” і щоб “система дружила з пошуковими роботами”. Насправді, тут є дуже багато нюансів, і так… звісно я вам про них розповім. В даній доповіді ви зможете почути відповіді на такі поширені запитання:</p>
+
+<p>— Невже SEO для AJAX вебсайтів це щось на грані фантастики?</p>
+
+<p>— Як зробити так, щоб Single Page Application без проблем індексувалася пошуковими роботами?</p>
+
+<p>— Що робити з “вічним скролом” і як тут допоможе sitemap.xml?</p>
+
+<p>— Яку роль відіграють #! (hasbang) та <em>escaped_fragment</em> у “домовленостях” між пошуковиком та серваком?”</p>
+
+<p>— Навіщо генерувати статичні HTML snapshots, і до чого тут PhantomJS?</p>
+
+<div style="clear: both"></div>
+
+<p><img class="left" src="/images/2014/speaker/stas_demchuk.jpg" width="140"></p>
+
+<h3 id="webui-developer-at-softserve-1">Стас Демчук WebUI Developer at Softserve</h3>
+
+<p><strong><em>Node.JS: Why is it awesome?</em></strong></p>
+
+<p>Нові платформи і фреймворки для розробки веб-аплікацій з’являються все частіше і частіше, тому в багатьох з’являється думка про те, що більшість з них - ненадійні та мають дуже багато слабких сторін. Під час презентації ми обговорюватимемо Node.JS, платформу, яка дозволяє виконувати Javscript на сервері, дізнаємось що це за звір і з чим його їсти, довідаємось сильні та слабкі сторони, а також розглянемо випадки, де Node.JS використовувати доцільно, а де доречніше було б використати щось інше.</p>
+
+<div style="clear: both"></div>
+
+<p><img class="left" src="/images/2014/speaker/sergiy_yavtushenko.jpg" width="140"></p>
+
+<h3 id="developer-at-excaliburgames">Сергій Явтушенко developer at ExcaliburGames</h3>
+
+<p><strong><em>Unity3D Початок</em></strong></p>
+
+<p>Досить довго я був звичайним Web девелопером — PHP/Perl/JS/MySQL/NoSQL. А потім зрозумів що хочу робити ігри і запустив Unity3D. 
+На прикладі історії створення прототипу невеликої 2D гри я розкажу про принципи роботи з Unity3D а також про особисті враження і труднощі при переході до ігрового програмування.</p>
+
+<p>Ми збудуємо нову колонію!</p>
+
+<div style="clear: both"></div>
+
+<p><img class="left" src="/images/2014/speaker/dmytro_andreev.jpg" width="140"></p>
+
+<h3 id="lead-developer-at-malkos-manager-of-lviv-net-user-group">Дмитро Андрєєв Lead developer at Malkos, manager of Lviv .Net User Group</h3>
+
+<p><strong><em>Застосування ІТ-технологій для вирішення соціальних проблем міста: CityRep Demo</em></strong></p>
+
+<p>Представляємо учасникам IT-Rally наш продукт “CityRep”, один із командних проектів благодійного хакатону Kindhack (http://dou.ua/calendar/4560/).  Метою проекту є створення цифрового аналогу «гарячої лінії» міста, що спростить процес повідомляння органів влади про нагальні проблеми міста та громадський контроль їх вирішення. В рамках проекту розроблено сайт та мобільні додатки для Android та iOS, отже презентація складатиметься  двох частин: ліричної та технічної. У ліричній частині ми розповімо про шлях ідеї від зродження до часткового впровадження: про сам хакатон, розробку концепції, співпрацю з міською радою та іншими громадськими ініціативами, а у технічній – поговоримо про технології та їх взаємодію, зокрема про: MVC 5, Knockout, ASP.Net Web API 2.</p>
 
 <div style="clear: both"></div>
 ]]></content>
