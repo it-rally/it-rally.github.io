@@ -85,7 +85,7 @@ article{
 		iframe{
 			border: none;
 		}
-		table{
+		table:not(.pure-table) {
 			border-spacing: 0;
 			padding: 5px;
 			margin-top: 10px;

@@ -127,12 +127,13 @@ body {
 							border-left: 5px solid $greyshade;
 							background: #FCFCFC;
 						}
-						table {
+						table:not(.pure-table) {
 							line-height: 1.2em;
 							td {
 								text-align: left;
 							}
 						}
+
 					}
 					.meta {
 						position: relative;

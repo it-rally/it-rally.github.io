@@ -1,2 +1,65 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+#schedule-table.pure-table {	
+	width: 100%;
+
+	th, td {
+		padding: 5px 15px;
+		text-align: center;
+	}
+	
+	th.schedule-time {
+		width: 35px;
+	}
+	
+	td.schedule-item {
+		min-width: 200px;
+		vertical-align: top;
+		font-weight: bold;
+		text-align: left;
+		transition: background-color 0.5s ease;
+		
+		
+		span {
+			display: block;
+			font-weight: normal;
+			font-style: italic;
+		}
+		
+		&:hover {
+			background-color: rgba(255, 215, 0, 0.7);
+		}
+	}
+}
+
+#schedule-items-content {
+	display: none;
+}
+
+.schedule-item-content {
+	width: 600px;
+	
+	.left {
+		float: left;
+		margin: 0 10px 5px 0;
+	}
+	
+	h1 {
+		margin: 0 0 10px 0;
+		font-size: 18px;
+		line-height: 1;
+	}
+	
+	h2 {
+		margin: 10px 0;
+		font-size: 14px;
+		line-height: 1;
+		font-weight: normal;
+		font-style: italic;
+	}
+	
+	ul {
+		margin-left: 25px;
+	}
+}
