@@ -37,6 +37,7 @@ IT Rally - рухайся в ритмі інформаційних технол�
 [{% img /images/company_logo/copyART.png %}](http://vk.com/copyart)
 [{% img /images/company_logo/LQAS_logo.png 128 %}](http://qa-school.lviv.ua/)
 [{% img /images/company_logo/BPO.png 128 %}](http://it-bpo.lviv.ua/)
+[{% img /images/company_logo/ektos.jpg 128 %}](http://ektos.net/)
 
 <!-- more -->	
 
