@@ -268,3 +268,4 @@ ___AngularJS - survival guide___
 - чого чекати від Angular вже завтра та що таке AngularDart.
 
 <div style="clear: both"></div>
+
