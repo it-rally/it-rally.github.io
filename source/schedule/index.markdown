@@ -8,7 +8,7 @@ sharing: true
 footer: true
 ---
 
-<table class="pure-table" id="schedule-table">
+<div class="entry-content"><table class="pure-table" id="schedule-table">
 	<thead>
 		<tr>
 			<th class="schedule-time">Час</th>
@@ -41,10 +41,11 @@ footer: true
 				Інтеграційна платформа Mule ESB
 				<span>Віктор Левицький</span>
 			</td>
-			<td class="schedule-item" href="#oleksiy-tyagkyy-information-sovereignty">
-				Інформаційний суверенітет: що це, для чого він потрібен і чому в України його немає
-				<span>Олексій Тяжкий</span>
+			<td class="schedule-item" href="#rostyslav-rava-mysql">
+				Типовий MySQL
+				<span>Ростислав Рава</span>
 			</td>
+
 		</tr>
 		<tr class="pure-table-odd">
 			<td>11:00<br />11:15</td>
@@ -61,7 +62,7 @@ footer: true
 				<span>Наталія Мухітдінова</span>
 			</td>
 			<td class="schedule-item" href="#roman-nikitchenko-apache-hadoop">
-				Технології Big Data та інфраструктура Apcahe Hadoop
+				Технології Big Data та інфраструктура Apache Hadoop
 				<span>Роман Нікітченко</span>
 			</td>
 			<td class="schedule-item" href="#sergiy-yavtushenko-unity3d">
@@ -87,10 +88,11 @@ footer: true
 				Wearables: the Next Level of Mobility
 				<span>Маркіян Мацех</span>
 			</td>
-			<td class="schedule-item" href="#rostyslav-rava-mysql">
-				Типовий MySQL
-				<span>Ростислав Рава</span>
+			<td class="schedule-item" href="#oleksiy-tyagkyy-information-sovereignty">
+				Інформаційний суверенітет: що це, для чого він потрібен і чому в України його немає
+				<span>Олексій Тяжкий</span>
 			</td>
+
 		</tr>
 		<tr class="pure-table-odd">
 			<td>13:30<br />14:30</td>
@@ -106,8 +108,9 @@ footer: true
 				Розробка кросплатформенних мобільних аплікацій з Xamarin
 				<span>Володимир Фученко</span>
 			</td>
-			<td>
-				&nbsp;
+			<td class="schedule-item" href="#svatoslav_rymar_testhacks">
+				10 &#8220;тестхаків&#8221;
+				<span>Святослав Римар</span>
 			</td>
 			<td>
 				&nbsp;
@@ -143,8 +146,28 @@ footer: true
 </table>
 
 <div id="schedule-items-content">
+	<div class="schedule-item-content" id="svatoslav_rymar_testhacks">
+	<img src="/images/2014/speaker/Svyatoslav_Rymar.jpg" class="left" width="140" />
+	<h1>Святослав Римар Тестувальник програмного забезпечення, викладач, блоггер.
+Компанія «SoftServe», Школа тестування ПЗ &#8220;LQAS&#8221;</h1>
+	<h2>10 &#8220;тестхаків&#8221;</h2>
+	<p>
+	Кілька років тому, завдяки програмістам зародився такий рух як лайфхакінг. Наслідуючи приклад Денні О&#8217;Брайена (автора терміну &#8221; lifehack &#8220;) я взяв 2 слова і з&#8217;єднав їх, в моєму випадку це були &#8220;Test&#8221; і &#8220;hack&#8221;.
+&#8220;Testhacks&#8221; - набір корисних, простих, а головне дієвих порад, які допоможуть у вирішенні комплексних завдань і питань. Наприклад:
+<ul>
+<li> Скільки часу приділяти тест-дизайну, а скільки тестуванню ? </li>
+<li> Які метрики краще використовувати? </li>
+<li> Як тестувати в стислі терміни? </li>
+</ul>
+Доповідь буде корисною як тест лідам, які хочуть в короткий термін поліпшити процес тестування, так і тестувальникам, яким небайдужа доля проекту і власна продуктивність.
+Можливо, деякі поради здадуться Вам простими, інші ж навпаки досить складними в даній ситуації, але головне, що вони працюють, так як були використані не на одному десятку проектів, внесли чіткість і ясність в роботу, додали організованості, зберегли час і гроші, позбавили менеджерів від зайвого клопоту і проблем.
+</p>
+	</div>
+</div>
+
+<div id="schedule-items-content">
 	<div class="schedule-item-content" id="roman-melnyk-js-frameworks">
-		<img src="/images/2014/speaker/roman_melnyk.jpg" class="left" width="140">
+		<img src="/images/2014/speaker/roman_melnyk.jpg" class="left" width="140" />
 		<h1>Роман Мельник WebUI developer at SoftServe</h1>
 		<h2>Approaches in modern web development. Vivisection of a JS framework</h2>
 		<p>
@@ -155,7 +178,7 @@ footer: true
 		</p>
 	</div>
 	<div class="schedule-item-content" id="lesya-symanyshyn-project-yesterday">
-		<img src="/images/2014/speaker/lesya_symanyshyn.jpg" class="left" width="140">
+		<img src="/images/2014/speaker/lesya_symanyshyn.jpg" class="left" width="140" />
 		<h1>Леся Симанишин Project Manager at Eleks</h1>
 		<h2>Про проект «на вчора»</h2>
 		<p>
@@ -165,30 +188,30 @@ footer: true
 		</p>
 	</div>
 	<div class="schedule-item-content" id="viktor-levytskyi-mule-esb">
-		<img src="/images/2014/speaker/viktor_levytskyi.jpg" class="left" width="140">
+		<img src="/images/2014/speaker/viktor_levytskyi.jpg" class="left" width="140" />
 		<h1>Віктор Левицький Інженер і team lead at SoftJourn</h1>
 		<h2>Інтеграційна платформа Mule ESB</h2>
 		<p>
-			В нашій повсякденній роботі ми часто стикаємось із завданням, як зв'язати різні компоненти системи (сервери, програми, бази даних) в одне ціле, не ускладнюючи при цьому собі життя. При цьому ми мусимо виконати величезний обсяг рутинної роботи. Але можна уникнути згаяного часу і сотень рядків коду. В цьому нам допоможе Mule.
+			В нашій повсякденній роботі ми часто стикаємось із завданням, як зв&#8217;язати різні компоненти системи (сервери, програми, бази даних) в одне ціле, не ускладнюючи при цьому собі життя. При цьому ми мусимо виконати величезний обсяг рутинної роботи. Але можна уникнути згаяного часу і сотень рядків коду. В цьому нам допоможе Mule.
 		</p>
 	</div>
 	<div class="schedule-item-content" id="oleksiy-tyagkyy-information-sovereignty">
-		<img src="/images/2014/speaker/oleksiy_tyagkyy.jpg" class="left" width="140">
+		<img src="/images/2014/speaker/oleksiy_tyagkyy.jpg" class="left" width="140" />
 		<h1>Олексій Тяжкий</h1>
 		<h2>Інформаційний суверенітет: що це, для чого він потрібен і чому в України його немає</h2>
 		<p>
-			“За умов  глобальної  інтеграції   та   жорсткої   міжнародної конкуренції  головною  ареною  зіткнень  і боротьби різновекторних національних інтересів держав стає інформаційний простір.  Сучасні інформаційні  технології  дають  змогу державам реалізувати власні інтереси без застосування  воєнної  сили,  послабити  або  завдати значної  шкоди  безпеці  конкурентної  держави,  яка не має дієвої системи захисту від негативних інформаційних впливів. "<br />
+			“За умов  глобальної  інтеграції   та   жорсткої   міжнародної конкуренції  головною  ареною  зіткнень  і боротьби різновекторних національних інтересів держав стає інформаційний простір.  Сучасні інформаційні  технології  дають  змогу державам реалізувати власні інтереси без застосування  воєнної  сили,  послабити  або  завдати значної  шкоди  безпеці  конкурентної  держави,  яка не має дієвої системи захисту від негативних інформаційних впливів. &#8221;<br />
 			Указ Президента України Про Доктрину інформаційної безпеки України. 21.03.2008<br />
   			<br />
-			Усі положення Доктрини залишились на папері. Сьогодні інформаційна війна дозволяє стороннім гравцям реалізовувати свої інтереси в нашій державі - від елементарних економічних до окупації Криму - без жодного пострілу. При цьому майже ніхто з наших громадян не вважає себе жертвою. Одні звикли рефлексувати не думаючи - це типові глядачі телевізора, які складають більшість населення. Інші - активні користувачі інтернету і альтернативних телебаченню джерел інформації, які впевнені, що вже сам факт використання мережі робить їх інформаційним простір об'єктивним, а поведінку адекватну реальності. Вони помиляються і не розуміють, що без інформаційного сувереніту, вони приречені стати такими ж жертвами інформаційної війни як і "раби зомбоящика”
+			Усі положення Доктрини залишились на папері. Сьогодні інформаційна війна дозволяє стороннім гравцям реалізовувати свої інтереси в нашій державі - від елементарних економічних до окупації Криму - без жодного пострілу. При цьому майже ніхто з наших громадян не вважає себе жертвою. Одні звикли рефлексувати не думаючи - це типові глядачі телевізора, які складають більшість населення. Інші - активні користувачі інтернету і альтернативних телебаченню джерел інформації, які впевнені, що вже сам факт використання мережі робить їх інформаційним простір об&#8217;єктивним, а поведінку адекватну реальності. Вони помиляються і не розуміють, що без інформаційного сувереніту, вони приречені стати такими ж жертвами інформаційної війни як і &#8220;раби зомбоящика”
 		</p>
 	</div>
 	<div class="schedule-item-content" id="anatoliy-syernyi-angular-js">
-		<img src="/images/2014/speaker/anatoliy_syernyi.jpg" class="left" width="140">
+		<img src="/images/2014/speaker/anatoliy_syernyi.jpg" class="left" width="140" />
 		<h1>Анатолій Сєрний frontend developer at PointPack.pl SA</h1>
 		<h2>AngularJS - survival guide</h2>
 		<p>
-			На сьогоднішній день AngularJS це один з провідних гравців на ринку SPA (Single-page Application) фреймворків. “Магія" AngularJS заворожує, проте що робити коли все пішло не так як заплановано?<br />
+			На сьогоднішній день AngularJS це один з провідних гравців на ринку SPA (Single-page Application) фреймворків. “Магія&#8221; AngularJS заворожує, проте що робити коли все пішло не так як заплановано?<br />
 			На цій доповіді я поділюсь з вами власним досвідом розробки повноцінних SPA з допомогою AngularJS, ми ознайомимося з головними принципами роботи та спробуємо розібратись як це все працює “з середини”, розглянемо найпоширеніші помилки початківців та навчимося не допускати їх.<br />
 			А також:
 			<ul>
@@ -199,7 +222,7 @@ footer: true
 		</p>
 	</div>
 	<div class="schedule-item-content" id="nataliya-muhitdinova-team">
-		<img src="/images/2014/speaker/nataliya_muhitdinova.jpg" class="left" width="140">
+		<img src="/images/2014/speaker/nataliya_muhitdinova.jpg" class="left" width="140" />
 		<h1>Наталія Мухітдінова Керівник філіалу Eleks в Івано-Франківську</h1>
 		<h2>Чим крутиться команда? Як її розкрутити і зберегти?</h2>
 		<p>
@@ -209,7 +232,7 @@ footer: true
 		</p>
 	</div>
 	<div class="schedule-item-content" id="roman-nikitchenko-apache-hadoop">
-		<img src="/images/2014/speaker/roman_nikitchenko.jpg" class="left" width="140">
+		<img src="/images/2014/speaker/roman_nikitchenko.jpg" class="left" width="140" />
 		<h1>Роман Нікітченко, Research engineer at V.I.tech</h1>
 		<h2>Технології Big Data та інфраструктура Apcahe Hadoop</h2>
 		<p>
@@ -217,7 +240,7 @@ footer: true
 		</p>
 	</div>
 	<div class="schedule-item-content" id="sergiy-yavtushenko-unity3d">
-		<img src="/images/2014/speaker/sergiy_yavtushenko.jpg" class="left" width="140">
+		<img src="/images/2014/speaker/sergiy_yavtushenko.jpg" class="left" width="140" />
 		<h1>Сергій Явтушенко developer at ExcaliburGames</h1>
 		<h2>Unity3D Початок</h2>
 		<p>
@@ -228,22 +251,22 @@ footer: true
 		</p>
 	</div>
 	<div class="schedule-item-content" id="taras-romaniv-seo-friendly-ajax">
-		<img src="/images/2014/speaker/taras_romaniv.jpg" class="left" width="140">
+		<img src="/images/2014/speaker/taras_romaniv.jpg" class="left" width="140" />
 		<h1>Тарас Романів Senior Software Engineer at Softjourn Inc.</h1>
 		<h2>SEO Friendly AJAX Websites</h2>
 		<p>
-			Часто перед нами постає проблема пошукової оптимізації динамічних AJAX веб-сайтів, коли потрібно, щоб "все індексувалось" і щоб "система дружила з пошуковими роботами". Насправді, тут є дуже багато нюансів, і так... звісно я вам про них розповім. В даній доповіді ви зможете почути відповіді на такі поширені запитання:
+			Часто перед нами постає проблема пошукової оптимізації динамічних AJAX веб-сайтів, коли потрібно, щоб &#8220;все індексувалось&#8221; і щоб &#8220;система дружила з пошуковими роботами&#8221;. Насправді, тут є дуже багато нюансів, і так&#8230; звісно я вам про них розповім. В даній доповіді ви зможете почути відповіді на такі поширені запитання:
 			<ul>
 				<li>Невже SEO для AJAX вебсайтів це щось на грані фантастики?</li>
 				<li>Як зробити так, щоб Single Page Application без проблем індексувалася пошуковими роботами?</li>
-				<li>Що робити з "вічним скролом" і як тут допоможе sitemap.xml?</li>
-				<li>Яку роль відіграють #! (hasbang) та _escaped_fragment_ у "домовленостях" між пошуковиком та серваком?"</li>
+				<li>Що робити з &#8220;вічним скролом&#8221; і як тут допоможе sitemap.xml?</li>
+				<li>Яку роль відіграють #! (hasbang) та _escaped_fragment_ у &#8220;домовленостях&#8221; між пошуковиком та серваком?&#8221;</li>
 				<li>Навіщо генерувати статичні HTML snapshots, і до чого тут PhantomJS?</li>
 			</ul>
 		</p>
 	</div>
 	<div class="schedule-item-content" id="natalka-shpot-how-to-start">
-		<img src="/images/2014/speaker/natalka_shpot.jpg" class="left" width="140">
+		<img src="/images/2014/speaker/natalka_shpot.jpg" class="left" width="140" />
 		<h1>Наталка Шпот Директор та викладач Львівської школи проектного менеджменту, бізнес-тренер</h1>
 		<h2>З чого і як починати, щоб добре закінчити</h2>
 		<p>
@@ -251,8 +274,8 @@ footer: true
 		</p>
 	</div>
 	<div class="schedule-item-content" id="markiyan-matsekh-next-level-of-mobility">
-		<img src="/images/2014/speaker/markiyan_matsekh.jpg" class="left" width="140">
-		<h1>Маркіян Мацех Mobility & Wearables Business Developer at Eleks</h1>
+		<img src="/images/2014/speaker/markiyan_matsekh.jpg" class="left" width="140" />
+		<h1>Маркіян Мацех Mobility &amp; Wearables Business Developer at Eleks</h1>
 		<h2>Wearables: the Next Level of Mobility</h2>
 		<p>
 			Mobility is about efficiency and getting things when and where you want them. As the pace of life is constantly growing, the “now” is receiving a new meaning, while wearables are destined to implement it.<br />
@@ -268,7 +291,7 @@ footer: true
 		</p>
 	</div>
 	<div class="schedule-item-content" id="rostyslav-rava-mysql">
-		<img src="/images/2014/speaker/rostyslav_rava.jpg" class="left" width="140">
+		<img src="/images/2014/speaker/rostyslav_rava.jpg" class="left" width="140" />
 		<h1>Ростислав Рава Database Engineer</h1>
 		<h2>Типовий MySQL</h2>
 		<p>
@@ -276,7 +299,7 @@ footer: true
 		</p>
 	</div>
 	<div class="schedule-item-content" id="stas-demchuk-nodejs">
-		<img src="/images/2014/speaker/stas_demchuk.jpg" class="left" width="140">
+		<img src="/images/2014/speaker/stas_demchuk.jpg" class="left" width="140" />
 		<h1>Стас Демчук WebUI Developer at Softserve</h1>
 		<h2>Node.JS: Why is it awesome?</h2>
 		<p>
@@ -284,7 +307,7 @@ footer: true
 		</p>
 	</div>
 	<div class="schedule-item-content" id="volodymyr-fuchenko-xamarin">
-		<img src="/images/2014/speaker/Volodymyr_Fuchenko.jpg" class="left" width="140">
+		<img src="/images/2014/speaker/Volodymyr_Fuchenko.jpg" class="left" width="140" />
 		<h1>Володимир Фученко Software developer at Eleks</h1>
 		<h2>Розробка кросплатформенних мобільних аплікацій з Xamarin</h2>
 		<p>
@@ -292,15 +315,15 @@ footer: true
 		</p>
 	</div>
 	<div class="schedule-item-content" id="dmytro-andreev-cityrep-demo">
-		<img src="/images/2014/speaker/dmytro_andreev.jpg" class="left" width="140">
+		<img src="/images/2014/speaker/dmytro_andreev.jpg" class="left" width="140" />
 		<h1>Дмитро Андрєєв Lead developer at Malkos, manager of Lviv .Net User Group</h1>
 		<h2>Застосування ІТ-технологій для вирішення соціальних проблем міста: CityRep Demo</h2>
 		<p>
-			Представляємо учасникам IT-Rally наш продукт "CityRep", один із командних проектів благодійного хакатону Kindhack (http://dou.ua/calendar/4560/).  Метою проекту є створення цифрового аналогу «гарячої лінії» міста, що спростить процес повідомляння органів влади про нагальні проблеми міста та громадський контроль їх вирішення. В рамках проекту розроблено сайт та мобільні додатки для Android та iOS, отже презентація складатиметься  двох частин: ліричної та технічної. У ліричній частині ми розповімо про шлях ідеї від зродження до часткового впровадження: про сам хакатон, розробку концепції, співпрацю з міською радою та іншими громадськими ініціативами, а у технічній – поговоримо про технології та їх взаємодію, зокрема про: MVC 5, Knockout, ASP.Net Web API 2.
+			Представляємо учасникам IT-Rally наш продукт &#8220;CityRep&#8221;, один із командних проектів благодійного хакатону Kindhack (http://dou.ua/calendar/4560/).  Метою проекту є створення цифрового аналогу «гарячої лінії» міста, що спростить процес повідомляння органів влади про нагальні проблеми міста та громадський контроль їх вирішення. В рамках проекту розроблено сайт та мобільні додатки для Android та iOS, отже презентація складатиметься  двох частин: ліричної та технічної. У ліричній частині ми розповімо про шлях ідеї від зродження до часткового впровадження: про сам хакатон, розробку концепції, співпрацю з міською радою та іншими громадськими ініціативами, а у технічній – поговоримо про технології та їх взаємодію, зокрема про: MVC 5, Knockout, ASP.Net Web API 2.
 		</p>
 	</div>
 	<div class="schedule-item-content" id="vasyl-krychun-ios-advanced-programming">
-		<img src="/images/2014/speaker/vasyl_krychun.jpg" class="left" width="140">
+		<img src="/images/2014/speaker/vasyl_krychun.jpg" class="left" width="140" />
 		<h1>Василь Кричун Project Manger/Solution Architect at Malkos</h1>
 		<h2>iOS. Advanced programming techniques</h2>
 		<p>
@@ -308,12 +331,12 @@ footer: true
 		</p>
 	</div>
 	<div class="schedule-item-content" id="myroslava-repela-istqb">
-		<img src="/images/2014/speaker/myroslava_repela.jpg" class="left" width="140">
+		<img src="/images/2014/speaker/myroslava_repela.jpg" class="left" width="140" />
 		<h1>Мирослава Репела</h1>
 		<h2>ISTQB Certification або Як підготуватись до здачі екзамену.Метод спроб і помилок</h2>
 		<p>
-			Разом з розвитком ІТ сфери зростає кількісь людей які тестують програмне забезпечення. Все частіше серед вакансій на посаду QA можна побачити пункт 'ISTQB' серед переліку вимог. Здача ISTQB сертифіката 'Foundation' рівня має багато переваг: він визнається в багатьох країнах світу - що відкриває перспективи карє'рного росту, з іншого боку допомагає впорядкувати знання.<br />
-			Я пропоную вашій увазі свою версію того, як варто готуватись до сертифікації, на що звернути увагу. Розкажу про купу "граблів" під час підготовки і те, як їх обійти.
+			Разом з розвитком ІТ сфери зростає кількісь людей які тестують програмне забезпечення. Все частіше серед вакансій на посаду QA можна побачити пункт &#8216;ISTQB&#8217; серед переліку вимог. Здача ISTQB сертифіката &#8216;Foundation&#8217; рівня має багато переваг: він визнається в багатьох країнах світу - що відкриває перспективи карє&#8217;рного росту, з іншого боку допомагає впорядкувати знання.<br />
+			Я пропоную вашій увазі свою версію того, як варто готуватись до сертифікації, на що звернути увагу. Розкажу про купу &#8220;граблів&#8221; під час підготовки і те, як їх обійти.
 		</p>
 	</div>
 </div>
@@ -323,3 +346,4 @@ footer: true
 		$("table#schedule-table td.schedule-item").fancybox();
 	});
 </script>
+
