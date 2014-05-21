@@ -4,7 +4,7 @@
   <title><![CDATA[IT Rally]]></title>
   <link href="http://it-rally.org/atom.xml" rel="self"/>
   <link href="http://it-rally.org/"/>
-  <updated>2014-05-21T16:34:06+02:00</updated>
+  <updated>2014-05-21T16:36:07+02:00</updated>
   <id>http://it-rally.org/</id>
   <author>
     <name><![CDATA[IT-Rally]]></name>
@@ -334,8 +334,9 @@ IT Rally “Starters” - це перший “кваліфікаційний з
 
 <p>IT Rally - найцікавіше попереду…</p>
 
-<h4 id="it-rally">Спонсори та партнери IT Rally</h4>
-<p><a href="http://courses.if.ua/"><img src="http://it-rally.org/images/company_logo/1stKyivCourses.jpg" width="128" /></a>
+<div style="clear: both"></div>
+<p>####Спонсори та партнери IT Rally
+<a href="http://courses.if.ua/"><img src="http://it-rally.org/images/company_logo/1stKyivCourses.jpg" width="128" /></a>
 <a href="http://eleks.com"><img src="http://it-rally.org/images/company_logo/Eleks.png" width="128" /></a>
 <a href="http://lezgro.com/"><img src="http://it-rally.org/images/company_logo/lezgro.png" width="128" /></a>
 <a href="http://qa-school.lviv.ua/"><img src="http://it-rally.org/images/company_logo/LQAS_logo.png" width="128" /></a>
