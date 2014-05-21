@@ -20,7 +20,20 @@ IT Rally “Starters” - це перший “кваліфікаційний з
 [{% img /images/social_big/vk_logo.png 32 %}](http://vk.com/event69707837)
 [{% img /images/social_big/google-plus.png 32 %}](https://plus.google.com/events/cs0req4knshftvnifcrrrf13kg0)
 
+
 IT Rally - найцікавіше попереду...
+
+<div style="clear: both"></div>
+
+####Спонсори та партнери IT Rally
+[{% img /images/company_logo/1stKyivCourses.jpg 128 %}](http://courses.if.ua/)
+[{% img /images/company_logo/Eleks.png 128 %}](http://eleks.com)
+[{% img /images/company_logo/lezgro.png 128 %}](http://lezgro.com/)
+[{% img /images/company_logo/LQAS_logo.png 128 %}](http://qa-school.lviv.ua/)
+[{% img /images/company_logo/osf.png 128 %}](http://www.osf-global.com/)
+[{% img /images/company_logo/SoftJorn.png %}](http://www.softjourn.com/)
+[{% img /images/company_logo/university.png %}](http://iful.at.ua/)
+
 
 <div style="clear: both"></div>
 <!-- more -->
@@ -43,17 +56,6 @@ IT Rally - найцікавіше попереду...
  14:05     | Презентація програми стажувань компанії SoftJourn
  14:20     | Закриття     
 {:.evenodd}
-
-####Спонсори та партнери IT Rally
-[{% img /images/company_logo/1stKyivCourses.jpg 128 %}](http://courses.if.ua/)
-[{% img /images/company_logo/Eleks.png 128 %}](http://eleks.com)
-[{% img /images/company_logo/lezgro.png 128 %}](http://lezgro.com/)
-[{% img /images/company_logo/LQAS_logo.png 128 %}](http://qa-school.lviv.ua/)
-[{% img /images/company_logo/osf.png 128 %}](http://www.osf-global.com/)
-[{% img /images/company_logo/SoftJorn.png %}](http://www.softjourn.com/)
-[{% img /images/company_logo/university.png %}](http://iful.at.ua/)
-
-<!-- more --> 
 
 <div style="margin-top:30px;"><script type="text/javascript" src="http://maps.google.com/maps/api/js?v=3&sensor=false"></script><div id="gmap_canvas" style="height:450px; width:600px;"></div><script type="text/javascript">function init_map(){var myOptions = {zoom:14,center:new google.maps.LatLng(48.916237,24.711604999999963),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(48.916237, 24.711604999999963)}); infowindow = new google.maps.InfoWindow({content:"<span style='height:auto !important; display:block; white-space:nowrap; overflow:hidden !important;'><strong style='font-weight:400;'>&#1059;&#1085;&#1110;&#1074;&#1077;&#1088;&#1089;&#1080;&#1090;&#1077;&#1090; &#1087;&#1088;&#1072;&#1074;&#1072; &#1110;&#1084;&#1077;&#1085;&#1110; &#1050;&#1086;&#1088;&#1086;&#1083;&#1103; &#1044;&#1072;&#1085;&#1080;&#1083;&#1072; &#1043;&#1072;&#1083;&#1080;&#1094;&#1100;&#1082;&#1086;&#1075;&#1086;</strong><br> &#1074;&#1091;&#1083;. &#1028;&#1074;&#1075;&#1077;&#1085;&#1072; &#1050;&#1086;&#1085;&#1086;&#1074;&#1072;&#1083;&#1100;&#1094;&#1103;, 35<br>  &#1030;&#1074;&#1072;&#1085;&#1086;-&#1060;&#1088;&#1072;&#1085;&#1082;&#1110;&#1074;&#1089;&#1100;&#1082;</span>" }); google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);}); infowindow.open(map,marker);}google.maps.event.addDomListener (window, "load", init_map);</script></div>
 	
