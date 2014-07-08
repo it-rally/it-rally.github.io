@@ -2,42 +2,46 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://it-rally.org/blog/2013/10/15/we-are-starting/</loc>
-        <lastmod>2014-05-05T20:30:02+02:00</lastmod>
+        <lastmod>2014-07-08T14:18:21+02:00</lastmod>
     </url>
     <url>
         <loc>http://it-rally.org/blog/2014/04/08/it-rally-starters/</loc>
-        <lastmod>2014-05-21T16:36:53+02:00</lastmod>
+        <lastmod>2014-07-08T14:18:21+02:00</lastmod>
     </url>
     <url>
         <loc>http://it-rally.org/blog/2014/04/17/it-rally/</loc>
-        <lastmod>2014-05-16T08:43:14+02:00</lastmod>
+        <lastmod>2014-07-08T14:18:21+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://it-rally.org/blog/2014/07/08/it-arena-2014/</loc>
+        <lastmod>2014-07-08T14:30:57+02:00</lastmod>
     </url>
     <url>
         <loc>http://it-rally.org/about/</loc>
-        <lastmod>2014-05-05T20:30:02+02:00</lastmod>
+        <lastmod>2014-07-08T14:18:21+02:00</lastmod>
     </url>
     <url>
         <loc>http://it-rally.org/blog/archives/</loc>
-        <lastmod>2014-05-21T16:36:53+02:00</lastmod>
+        <lastmod>2014-07-08T14:30:57+02:00</lastmod>
     </url>
     <url>
         <loc>http://it-rally.org/blog/categories/</loc>
-        <lastmod>2014-05-05T20:30:02+02:00</lastmod>
+        <lastmod>2014-07-08T14:18:21+02:00</lastmod>
     </url>
     <url>
         <loc>http://it-rally.org/</loc>
-        <lastmod>2014-05-21T16:36:53+02:00</lastmod>
+        <lastmod>2014-07-08T14:30:57+02:00</lastmod>
     </url>
     <url>
         <loc>http://it-rally.org/registration/</loc>
-        <lastmod>2014-05-05T20:30:02+02:00</lastmod>
+        <lastmod>2014-07-08T14:18:21+02:00</lastmod>
     </url>
     <url>
         <loc>http://it-rally.org/robots.txt</loc>
-        <lastmod>2014-05-05T20:30:02+02:00</lastmod>
+        <lastmod>2014-07-08T14:18:21+02:00</lastmod>
     </url>
     <url>
         <loc>http://it-rally.org/schedule/</loc>
-        <lastmod>2014-05-21T16:27:47+02:00</lastmod>
+        <lastmod>2014-07-08T14:18:21+02:00</lastmod>
     </url>
 </urlset>

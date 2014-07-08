@@ -4,7 +4,7 @@
   <title><![CDATA[IT Rally]]></title>
   <link href="http://it-rally.org/atom.xml" rel="self"/>
   <link href="http://it-rally.org/"/>
-  <updated>2014-05-21T16:38:13+02:00</updated>
+  <updated>2014-07-08T14:33:44+02:00</updated>
   <id>http://it-rally.org/</id>
   <author>
     <name><![CDATA[IT-Rally]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[IT Arena 2014]]></title>
+    <link href="http://it-rally.org/blog/2014/07/08/it-arena-2014/"/>
+    <updated>2014-07-08T14:22:00+02:00</updated>
+    <id>http://it-rally.org/blog/2014/07/08/it-arena-2014</id>
+    <content type="html"><![CDATA[<p><img class="left" src="http://it-rally.org/images/2014/itarena.jpg" width="340" /></p>
+
+<p>Заплануй найцікавіше заздалегідь! Не пропусти 2-4 жовтня конференцію Lviv IT Arena на стадіоні «Арена Львів». Близько 1000 учасників, понад 100 спікерів з України та світу, 10 найочікуваніших секцій - Startup, Management as fun, Value Management and business analysis, QA, Google Development, Mobile, UI/UX, IT Outsourcing, Data Science, Information Security!</p>
+
+<p>Не пропусти цікаві доповіді та дискусії про сучасні ІТ тренди, дізнайся як перетворити стартап на системну компанію, почуй найцікавіше про повний цикл розробки програмного забезпечення!</p>
+
+<div style="clear: both"></div>
+
+<p>Більше інформації на сайті <a href="http://itarena.lviv.ua/">itarena.lviv.ua</a></p>
+
+<p><a href="http://gastroli.ua/events/lviv-it-arena-conference#.U7viqY2Sw7u">Купуй квиток</a> і приходь на найбільшу ІТ подію Західної України!</p>
+
+<p>Довідка:
+Головний організатор конференції - Львівський кластер інформаційних технологій та бізнес-послуг (ІТБП).</p>
+
+<p>Співорганізатори – компанія Елекс, Львівська спільнота тестувальників (<a href="http://testers.lviv.ua/">Testers.lviv.ua</a>), Львівська бізнес-школа, спільнота розробників Google (GDG), бізнес-інкубатор Startup Depot, спільнота спеціалістів у сфері інформаційної безпеки (WISC), Школа проектного менеджменту та Львівська міська рада.</p>
+
+<p>Срібний партнер – Qubstudio</p>
+
+<p>Генеральний медіапартнер - DOU</p>
+
+<p>Ексклюзивний медіапартнер – Радіо 24 та Телеканал новин 24</p>
+
+<p>Головний діловий медіапартнер – Delo.ua</p>
+
+<p>Медіапартнери: IT Rally, IT Weekend, Львівська газета, Postpaper, Электронный документооборот и ИТ для бизнеса, Lviv Online, ERVE.ua, Сайт міста Рівне 0362, Career4it.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[IT Rally]]></title>
