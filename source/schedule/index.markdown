@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Розклад IT Rally 2014"
-date: 2014-04-17 10:07
+title: "Розклад IT Rally 2015 Unicorn"
+date: 2015-05-13 10:07
 comments: false
 published: false
 sharing: true
@@ -36,9 +36,9 @@ footer: true
 			<td>10:30<br />11:30</td>
 			<td class="schedule-smallitem">
 				<ul>
-     				<li><strong>Тарас Кобець</strong> <br/> Комунікація ІТ та простих смертних/решти світу</li>
 					<li><strong>Андрій Хомин</strong> <br/> Як зробити стартап всередині ауторсингової компанії?</li>
 					<li><strong>Василь Масюк</strong> <br/> Юридична відповідальність в сфері ІТ</li>
+     				<li><strong>Тарас Кобець</strong> <br/> Комунікація ІТ та простих смертних/решти світу</li>
 				</ul>
 			</td>
 			<td class="schedule-item">
@@ -127,6 +127,8 @@ footer: true
 				<ul>
      				<li><strong>Олександр Іванотчак</strong> <br/>Ефективна система вивчення нових технологій</li>
 					<li><strong>Ярослав Кулик</strong> <br/>Best practices for using AWS</li>
+					<li><strong>Дарія Ставерська</strong> <br/>Про важливу роль комунікацій у побудові бізнесу та про те, що варто і чого не варто робити, спілкуючись із журналістами</li>
+					
 				</ul>
 			</td>
 			<td class="schedule-item">
@@ -159,16 +161,11 @@ footer: true
 			
 		</tr>
 		<tr class="pure-table-odd">
-			<td>17:00<br />18:00</td>
+			<td>17:00<br />17:30</td>
 			<td colspan="4">Закриття</td>
 		</tr>
 	</tbody>
 </table>
 
 
-<script type="text/javascript">
-	$(document).ready(function() {
-		$("table#schedule-table td.schedule-item").fancybox();
-	});
-</script>
 

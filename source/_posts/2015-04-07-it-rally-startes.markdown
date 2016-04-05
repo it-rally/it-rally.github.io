@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "IT Rally Startes"
+title: "IT Rally Starters"
 date: 2015-04-07 20:19
 comments: true
-categories: event startets y2015
+categories: event starters y2015
 ---
 {% img left /images/2015/it_rally_starters_2015.jpg 240 %}
 
